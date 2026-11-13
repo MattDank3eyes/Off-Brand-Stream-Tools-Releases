@@ -2,7 +2,7 @@
 
 Linux x86_64 AppImages only. This repository has no source code.
 
-Current file: [Off-Brand-Stream-Tools-broadcaster-alpha-0.2.39-linux-x86_64.AppImage](https://github.com/MattDank3eyes/Off-Brand-Stream-Tools-Releases/releases/download/broadcaster-alpha-0.2.39/Off-Brand-Stream-Tools-broadcaster-alpha-0.2.39-linux-x86_64.AppImage)
+Current file: [Off-Brand-Stream-Tools-broadcaster-alpha-0.2.40-linux-x86_64.AppImage](https://github.com/MattDank3eyes/Off-Brand-Stream-Tools-Releases/releases/download/broadcaster-alpha-0.2.40/Off-Brand-Stream-Tools-broadcaster-alpha-0.2.40-linux-x86_64.AppImage)
 
 The release also has `SHA256SUMS` and `latest-linux.yml`. The desktop app checks this public repository for updates and does not use a GitHub token.
 
